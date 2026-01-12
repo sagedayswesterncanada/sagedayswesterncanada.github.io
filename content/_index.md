@@ -33,6 +33,7 @@ scientist, or directly beneficial to SageMath itself (see Registration).
 
 | Event | Date |
 |-------|------|
+| Arrival and check-in | Sunday June 7th 2026, evening |
 | Workshop start | Monday June 8th 2026, morning |
 | Workshop end | Friday June 12th 2026, after lunch |
 
