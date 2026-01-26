@@ -43,7 +43,7 @@ application form.
 We will strongly encourage (first) contributions to SageMath. Participants can
 come with their own topic, discuss topic ideas with the organizers, or pick one
 in the list below. These subjects are self-contained, achievable during the
-workshop and suitable for a first contribution to SageMath.
+workshop, and suitable for a first contribution to SageMath.
 
 ### Drinfeld modules
 
@@ -73,6 +73,14 @@ but still has room for improvements to both speed and functionality.\
     x^3 - 3*x*x^2 + 3*x^2*x - x^3
     ```
     *(Proposed by: Antoine Leudière)*
+
+### Public key cryptography
+
+- Improve SageMath's public key cryptography functionality with demonstrative
+implementations of notable public key exchange, key encapsulation mechanism, public key
+encryption, or digital signature schemes.
+- See [Sage Enhancement Proposal 41218](https://github.com/sagemath/sage/discussions/41218) for more details.\
+*(Proposed by: Vincent Macri)*
 
 # Schedule of the plenary sessions
 
