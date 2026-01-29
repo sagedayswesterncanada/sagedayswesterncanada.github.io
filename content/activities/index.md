@@ -45,6 +45,12 @@ come with their own topic, discuss topic ideas with the organizers, or pick one
 in the list below. These subjects are self-contained, achievable during the
 workshop, and suitable for a first contribution to SageMath.
 
+### Polynomials
+
+- Implement multipoint evaluation of classical polynomials and Ore polynomials
+(see *Modern Computer Algebra*, §10.1, for the classical version).\
+    *(Proposed by: Antoine Leudière)*
+
 ### Drinfeld modules
 
 - Implement solutions to the *discrete logarithm problem* and the *inversion
