@@ -75,7 +75,7 @@ conduct](https://web.pims.math.ca/about/policies-statements/code-conduct).
 # Organizers and contact
 
 - [Antoine Leudière](https://cspages.ucalgary.ca/~antoine.leudiere1/) (University of Calgary, PIMS-CNRS post-doctoral fellow)
-- [Vincent Macri](https://vincemacri.ca) (University of Calgary, PhD student)
+- [Vincent Macri](https://profiles.ucalgary.ca/vincent-macri) (University of Calgary, PhD student)
 - [Renate Scheidler](https://cspages.ucalgary.ca/~rscheidl/) (University of Calgary, professor)
 
 For any questions, please contact us at [sagedays.westerncan@ucalgary.ca](mailto:sagedays.westerncan@ucalgary.ca).
