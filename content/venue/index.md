@@ -71,8 +71,7 @@ stop away from the University of Calgary station.
 
 ## Cost
 
-We estimate that the cost of attending will be between $500 and $600 CAD.
-We will update this website with more precise information as soon as we have it.
+We estimate that the cost of attending will be $566.30 CAD.
 This includes both accommodations and meals for the duration of the workshop.
 
 # Child care
