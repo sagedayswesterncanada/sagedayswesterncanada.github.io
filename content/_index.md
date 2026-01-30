@@ -77,17 +77,19 @@ conduct](https://web.pims.math.ca/about/policies-statements/code-conduct).
 - [Antoine Leudière](https://cspages.ucalgary.ca/~antoine.leudiere1/) (University of Calgary, PIMS-CNRS post-doctoral fellow)
 - [Vincent Macri](https://profiles.ucalgary.ca/vincent-macri) (University of Calgary, PhD student)
 - [Renate Scheidler](https://cspages.ucalgary.ca/~rscheidl/) (University of Calgary, professor)
+- [Melissa Wrubleski](https://www.pims.math.ca/profiles/melissa-wrubleski) (PIMS).
 
 For any questions, please contact us at [sagedays.westerncan@ucalgary.ca](mailto:sagedays.westerncan@ucalgary.ca).
 
 # Sponsors
 
 We are financially supported by:
-- [The Pacific Institute for the Mathematical Sciences (PIMS)](https://www.pims.math.ca/)
+- [the *Pacific Institute for the Mathematical Sciences* (PIMS)](https://www.pims.math.ca/),
+    which also provides significant in-kind support;
     {{< image src="/pims.svg" alt="PIMS" style="width: 50%" >}}
-- [The Faculty of Science of the University of Calgary](https://science.ucalgary.ca/)
-- [The Mathematics and Statistics Department of the University of Calgary](https://science.ucalgary.ca/mathematics-statistics)
-- [The Computer Science Department of the University of Calgary](https://science.ucalgary.ca/computer-science)
+- [the Faculty of Science of the University of Calgary](https://science.ucalgary.ca/);
+- [the Mathematics and Statistics Department of the University of Calgary](https://science.ucalgary.ca/mathematics-statistics);
+- [the Computer Science Department of the University of Calgary](https://science.ucalgary.ca/computer-science).
 
 We are also supported by in-kind contributions from:
-- [CoCalc](https://cocalc.com/)
+- [CoCalc](https://cocalc.com/).
