@@ -2,34 +2,30 @@
 title: Registration
 ---
 
-# Funding
+# Funding and cost
 
-- Funding for accommodations and meals at Barrier Lake Station during the event is available for a limited number of students and postdocs.
-    *We hope to be able to cover accommodations and meals for as many students and postdocs as possible, but cannot make guarantees until we have a final participant count.*
-- Participants are expected to pay for their own travel.
-
-See the estimated cost [here](/venue/#cost).
+We hope to fund accommodations and meals for as many participants as possible.
+At this time, we have confirmed funding to cover a limited number of participants.
+Priority will be given to students and postdocs.
+We have a pending funding application that would increase the number of funded participants.
+For unfunded participants, the cost of accommodations and meals will be at most $544.57 CAD.
+Participants are expected to pay for their own travel.
 
 # How to apply
 
 ## Instructions
 
-To participate, we ask that you submit an application. **We will soon put a
-link to an online form.** The application will include:
+To participate, we ask that you [submit an application](https://forms.office.com/r/LnHqwbBMph).
+The application will include:
 
-- A text on the direct impact of your participation either to you, or to
-SageMath, or to both; at least one of those is necessary. 300 words maximum.
-- A text on how you plan to contribute to the community behind SageMath. 300
-words maximum.
-- For students and post-docs only, a referral letter from your supervisor
-addressing the two above issues must be sent to the workshop email, by the
-author.
+- A text on the direct impact of your participation either to you, or to SageMath, or to both; at least one of those is necessary. 300 words maximum.
+- A text on how you plan to contribute to the community behind SageMath. 300 words maximum.
+- For students and post-docs only, a referral letter from your supervisor addressing the two above issues must be sent by your supervisor to [sagedays.westerncan@ucalgary.ca](mailto:sagedays.westerncan@ucalgary.ca).
 - A brief description of your research (250 characters including spaces).
 - We will also ask if you have access to support yourself.
 
 For organizational purposes, we will also ask questions about your level of
-familiarity with SageMath, Git, programming in general, etc. This information
-is crucial for us to organize suitable events.
+familiarity with SageMath. This information will help us organize suitable activities.
 
 
 ## Timeline

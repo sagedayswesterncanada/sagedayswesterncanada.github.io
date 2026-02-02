@@ -88,6 +88,9 @@ encryption, or digital signature schemes.
 - See [Sage Enhancement Proposal 41218](https://github.com/sagemath/sage/discussions/41218) for more details.\
 *(Proposed by: Vincent Macri)*
 
-# Schedule of the plenary sessions
+# Invited speakers
+We will have plenary talks from:
 
-TBD
+- [Nils Bruin](https://cs.uwaterloo.ca/~mwg/index.shtml) (Simon Fraser University)
+- [Mark Giesbrecht](https://www.sfu.ca/math/people/faculty/nbruin.html) (University of Waterloo)
+- Jenny Lawson (University of Calgary)

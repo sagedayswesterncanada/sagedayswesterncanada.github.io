@@ -7,23 +7,27 @@ Station](https://research.ucalgary.ca/biogeoscience-institute/facilities/barrier
 Kananaskis, Alberta, Canada. This venue belongs to the University of Calgary
 and provides accommodations, work facilities, and dining.
 
-{{< image src="/dining4.jpg" alt="Barrier Lake" position="center" style="width: 50%" >}}
+{{< image src="/dining4.jpg" alt="Photograph of Barrier Lake main lodge" position="center" style="width: 50%" >}}
 
 # About the venue
 
 ## Accommodations
 
-**Barrier Lake Station is mostly dormitory style housing.**
+**Barrier Lake Station is a field station, not a hotel.**
+Barrier Lake is mostly dormitories, with some duplex housing as well.
 
-Each dormitory has a shared washroom, and each bedroom in the dormitories has
-one bunk bed.
+Each dormitory (up to 16 people) has a shared washroom.
+Each bedroom in the dormitories has one bunk bed.
+We hope the beautiful scenery makes up for this!
+
+{{< image src="/mountains.jpeg" alt="View of the mountains from Barrier Lake Field Station" position="center" style="width: 50%" >}}
 
 There will be a male dormitory and a female dormitory (each dormitory has its
 own washroom).
 
 If you are unable to stay in dormitory style housing, there is a limited amount
 of duplex housing available. Each duplex has a loft with two single beds a
-bedroom with four bunk beds, and one washroom. The duplexes will be co-ed. If
+bedroom with four bunk beds, and one washroom. Duplexes may be co-ed. If
 you are unable to stay in the dormitories and require accommodations in the
 duplexes, please indicate so on your registration form.
 
@@ -39,18 +43,12 @@ Meals are provided by Barrier Lake Station. From [their website](https://researc
 > cater for Kosher or Halal, air-born allergies, and extreme dietary
 > restrictions.
 
-## What to bring at Barrier Lake Station
-
-Bring a laptop (see [Requirements](/index.html/#requirements)).
-
-Please note that soap, shampoo, bedding, linens, and towels are provided by Barrier Lake.
-
-We encourage participants to bring extras like hiking boots, or anything that
-could be of interest for the non-working time. For example, we will try to
-bring a guitar.
+We will reach out to Barrier Lake to inquire about their ability to accommodate any dietary restrictions listed on your application form. 
+If you are accepted and have complex dietary needs, we are happy to put you in contact with the venue to discuss your needs with them directly.
 
 ## Accessing Barrier Lake Station
 
+Barrier Lake station is in a remote area.
 The closest airport is [Calgary International Airport (YYC)](https://www.yyc.com/en-us/).
 The venue is less than 1h30 away by car from the Calgary airport.
 
@@ -69,11 +67,6 @@ the night before and stay at a hotel at your own expense. There are several
 hotels in Calgary near the Banff Trail CTrain LRT station, which is only one
 stop away from the University of Calgary station.
 
-## Cost
-
-We estimate that the cost of attending will be $566.30 CAD.
-This includes both accommodations and meals for the duration of the workshop.
-
 # Child care
 
 We are applying for funds to help cover child care costs for participants with
@@ -86,6 +79,10 @@ make any promises about childcare yet. **If you are considering attending the
 workshop and will require support with childcare, please contact us at
 [sagedays.westerncan@ucalgary.ca](mailto:sagedays.westerncan@ucalgary.ca) as
 soon as possible.**
+
+# Accessibility
+Barrier Lake will do their best to accommodate accessibility needs.
+We will put accepted participants with accessibility needs in contact with the venue directly to discuss their needs prior to the acceptance deadline.
 
 # Alternative venues
 
