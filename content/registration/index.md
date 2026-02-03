@@ -13,22 +13,11 @@ Participants are expected to pay for their own travel.
 
 # How to apply
 
-## Instructions
+To participate, please [submit an application](https://forms.office.com/r/LnHqwbBMph).
 
-To participate, we ask that you [submit an application](https://forms.office.com/r/LnHqwbBMph).
-The application will include:
-
-- A text on the direct impact of your participation either to you, or to SageMath, or to both; at least one of those is necessary. 300 words maximum.
-- A text on how you plan to contribute to the community behind SageMath. 300 words maximum.
-- For students and post-docs only, a referral letter from your supervisor addressing the two above issues must be sent by your supervisor to [sagedays.westerncan@ucalgary.ca](mailto:sagedays.westerncan@ucalgary.ca).
-- A brief description of your research (250 characters including spaces).
-- We will also ask if you have access to support yourself.
-
-For organizational purposes, we will also ask questions about your level of
-familiarity with SageMath. This information will help us organize suitable activities.
-
-
-## Timeline
+For students only, we ask for a letter of support sent by your supervisor to 
+[sagedays.westerncan@ucalgary.ca](mailto:sagedays.westerncan@ucalgary.ca)
+(details in the application).
 
 | Date | Event |
 |------|-------|
