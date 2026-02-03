@@ -7,7 +7,7 @@ Barrier Lake Station, Kananaskis, Alberta, Canada.
 # Goal of the event
 
 Sage Days are events that have been organized by the Sage community [since
-2005](https://wiki.sagemath.org/Workshops). Their goals and activities vary
+2006](https://wiki.sagemath.org/Workshops). Their goals and activities vary
 greatly. The goal of our event is threefold:
 
 1. **Welcoming and integrating newcomers.** Sage Days is a fantastic
