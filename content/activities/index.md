@@ -20,10 +20,12 @@ mean discussing Sage on a hike in the mountains, late-night karaoke, etc.
 Although the organizers are number theorists, **we welcome participants from
 all areas of mathematics** who are interested in Sage.
 
-## Plenary talks
+# Invited speakers
+We will have plenary talks from:
 
-We will have a few of plenary talks (list will be announced as soon as it is
-confirmed), no more than one each day.
+- [Nils Bruin](https://cs.uwaterloo.ca/~mwg/index.shtml) (Simon Fraser University)
+- [Mark Giesbrecht](https://www.sfu.ca/math/people/faculty/nbruin.html) (University of Waterloo)
+- Jenny Lawson (University of Calgary)
 
 ## Labs and tutorials
 
@@ -87,10 +89,3 @@ implementations of notable public key exchange, key encapsulation mechanism, pub
 encryption, or digital signature schemes.
 - See [Sage Enhancement Proposal 41218](https://github.com/sagemath/sage/discussions/41218) for more details.\
 *(Proposed by: Vincent Macri)*
-
-# Invited speakers
-We will have plenary talks from:
-
-- [Nils Bruin](https://cs.uwaterloo.ca/~mwg/index.shtml) (Simon Fraser University)
-- [Mark Giesbrecht](https://www.sfu.ca/math/people/faculty/nbruin.html) (University of Waterloo)
-- Jenny Lawson (University of Calgary)
