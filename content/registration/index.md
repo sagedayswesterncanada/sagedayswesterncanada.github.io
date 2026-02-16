@@ -15,7 +15,8 @@ Participants are expected to pay for their own travel.
 
 To participate, please [submit an application](https://forms.office.com/r/LnHqwbBMph).
 
-For students only, we ask for a letter of support sent by your supervisor to 
+For students only, we ask for a letter of support (300 words maximum) sent by
+your supervisor to
 [sagedays.westerncan@ucalgary.ca](mailto:sagedays.westerncan@ucalgary.ca)
 (details in the application).
 
