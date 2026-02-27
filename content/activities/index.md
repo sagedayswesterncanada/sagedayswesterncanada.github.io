@@ -23,8 +23,8 @@ all areas of mathematics** who are interested in Sage.
 # Invited speakers
 We will have plenary talks from:
 
-- [Nils Bruin](https://cs.uwaterloo.ca/~mwg/index.shtml) (Simon Fraser University)
-- [Mark Giesbrecht](https://www.sfu.ca/math/people/faculty/nbruin.html) (University of Waterloo)
+- [Nils Bruin](https://www.sfu.ca/math/people/faculty/nbruin.html) (Simon Fraser University)
+- [Mark Giesbrecht](https://cs.uwaterloo.ca/~mwg/index.shtml) (University of Waterloo)
 - Jenny Lawson (University of Calgary)
 
 ## Labs and tutorials
