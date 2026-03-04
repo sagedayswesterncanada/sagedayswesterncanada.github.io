@@ -89,9 +89,9 @@ We will put accepted participants with accessibility needs in contact with the v
 Participants are welcome to look for alternative accommodation nearby, at their
 own cost. Please note that if you do so, **you will need a car**, as there are
 no public transportation options to Barrier Lake in the area. The workshop
-registration fees are just to cover the costs of accommodations and meals at
+accommodations fee is just to cover the costs of accommodations and meals at
 Barrier Lake, so if you are staying at an alternative site then your
-registration fee will be prorated to the cost of the meals you have at Barrier
+accommodations fee will be prorated to the cost of the meals you have at Barrier
 Lake.
 
 Here are some possible alternative venues:
