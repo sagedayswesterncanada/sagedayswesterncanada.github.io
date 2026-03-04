@@ -85,6 +85,7 @@ For any questions, please contact us at [sagedays.westerncan@ucalgary.ca](mailto
 We are financially supported by:
 - [the *Pacific Institute for the Mathematical Sciences* (PIMS)](https://www.pims.math.ca/);
     {{< image src="/pims.svg" alt="PIMS" style="width: 50%" >}}
+- [the Number Theory Foundation](https://numbertheoryfoundation.org/);
 - [the Faculty of Science of the University of Calgary](https://science.ucalgary.ca/);
 - [the Mathematics and Statistics Department of the University of Calgary](https://science.ucalgary.ca/mathematics-statistics);
 - [the Computer Science Department of the University of Calgary](https://science.ucalgary.ca/computer-science).
