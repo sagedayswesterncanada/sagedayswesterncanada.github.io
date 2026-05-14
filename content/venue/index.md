@@ -20,10 +20,12 @@ The venue is approximately a 1 hour drive from the Calgary airport.
 We will organize ground transportation from the University of Calgary to the
 venue on the afternoon (Sunday June 7th) before the workshop starts (Monday
 June 8th). Therefore, participants are encouraged to stay a total of five
-nights at Barrier Lake Station. The return trip will depart from Barrier Lake Station
-at 3:00 pm and arrive in Calgary at approximately 4:00 pm. If necessary to ensure
-participants are able to make their return flights, we will have an earlier return bus
-departing Thursday evening or Friday morning. Please contact us at
+nights at Barrier Lake Station. The trip to Barrier Lake Station will depart
+from the University of Calgary at 5:00 pm. The return trip will depart from
+Barrier Lake Station at 3:00 pm and arrive at the University of Calgary at
+approximately 4:00 pm. If necessary to ensure participants are able to make
+their return flights, we will have an earlier return bus departing Thursday
+evening or Friday morning. Please contact us at
 [sagedays.westerncan@ucalgary.ca](mailto:sagedays.westerncan@ucalgary.ca)
 if you will need to leave early.
 
