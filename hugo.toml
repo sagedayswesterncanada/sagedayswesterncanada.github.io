@@ -93,21 +93,25 @@ relativeURLs = true
           identifier = "activities"
           name = "Activities"
           url = "/activities/"
-
-        [[languages.en.menu.main]]
-          identifier = "registration"
-          name = "Registration"
-          url = "/registration"
-
-        [[languages.en.menu.main]]
-          identifier = "travel-visas"
-          name = "Travel and visas"
-          url = "/travel-visas"
+          weight = 2
 
         [[languages.en.menu.main]]
           identifier = "venue"
           name = "Venue and logistics"
           url = "/venue"
+          weight = 3
+
+        [[languages.en.menu.main]]
+          identifier = "travel-visas"
+          name = "Travel and visas"
+          url = "/travel-visas"
+          weight = 4
+
+        [[languages.en.menu.main]]
+          identifier = "registration"
+          name = "Registration"
+          url = "/registration"
+          weight = 5
 
 
 # For GitHub Pages deployment:
