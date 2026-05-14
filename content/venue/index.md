@@ -1,5 +1,5 @@
 ---
-title: Venue
+title: Venue and logistics
 ---
 
 The workshop will be hosted at [Barrier Lake
@@ -10,6 +10,32 @@ and provides accommodations, work facilities, and dining.
 {{< image src="/dining4.jpg" alt="Photograph of Barrier Lake main lodge" position="center" style="width: 50%" >}}
 
 # About the venue
+
+## Accessing Barrier Lake Station
+
+Barrier Lake Station is in a remote area.
+The closest airport is [Calgary International Airport (YYC)](https://www.yyc.com/en-us/).
+The venue is approximately a 1 hour drive from the Calgary airport.
+
+We will organize ground transportation from the University of Calgary to the
+venue on the afternoon (Sunday June 7th) before the workshop starts (Monday
+June 8th). Therefore, participants are encouraged to stay a total of five
+nights at Barrier Lake Station. The return trip will depart from Barrier Lake Station
+at 3:00 pm and arrive in Calgary at approximately 4:00 pm. If necessary to ensure
+participants are able to make their return flights, we will have an earlier return bus
+departing Thursday evening or Friday morning. Please contact us at
+[sagedays.westerncan@ucalgary.ca](mailto:sagedays.westerncan@ucalgary.ca)
+if you will need to leave early.
+
+The University of Calgary is easily accessibly by public transit. Participants
+are responsible for arriving at the meet-up point in Calgary on time on their
+own.
+
+Depending on the flight times available to you and how far you are travelling
+from (and your likelihood of flight delays), you may wish to arrive in Calgary
+the night before and stay at a hotel at your own expense. There are several
+hotels in Calgary near the Banff Trail CTrain LRT station, which is only one
+stop away from the University of Calgary station.
 
 ## Accommodations
 
@@ -46,45 +72,11 @@ Meals are provided by Barrier Lake Station. From [their website](https://researc
 We will reach out to Barrier Lake to inquire about their ability to accommodate any dietary restrictions listed on your application form. 
 If you are accepted and have complex dietary needs, we are happy to put you in contact with the venue to discuss your needs with them directly.
 
-## Accessing Barrier Lake Station
-
-Barrier Lake station is in a remote area.
-The closest airport is [Calgary International Airport (YYC)](https://www.yyc.com/en-us/).
-The venue is less than 1h30 away by car from the Calgary airport.
-
-We will organize ground transportation from the University of Calgary to the
-venue on the afternoon (Sunday June 7th) before the workshop starts (Monday
-June 8th). Therefore, participants are encouraged to stay a total of five
-nights at Barrier Lake Station.
-
-The University of Calgary is easily accessibly by public transit. Participants
-are responsible for arriving at the meet-up point in Calgary on time on their
-own.
-
-Depending on the flight times available to you and how far you are travelling
-from (and your likelihood of flight delays), you may wish to arrive in Calgary
-the night before and stay at a hotel at your own expense. There are several
-hotels in Calgary near the Banff Trail CTrain LRT station, which is only one
-stop away from the University of Calgary station.
-
-# Child care
-
-We are applying for funds to help cover child care costs for participants with
-children. Depending on the age of your children and venue space, this could
-mean offering reimbursements to offset childcare costs, or having your children
-and a caregiver stay at Barrier Lake.
-
-As we have not received a decision on all funding applications yet, we cannot
-make any promises about childcare yet. **If you are considering attending the
-workshop and will require support with childcare, please contact us at
-[sagedays.westerncan@ucalgary.ca](mailto:sagedays.westerncan@ucalgary.ca) as
-soon as possible.**
-
 # Accessibility
 Barrier Lake will do their best to accommodate accessibility needs.
 We will put accepted participants with accessibility needs in contact with the venue directly to discuss their needs prior to the acceptance deadline.
 
-# Alternative venues
+# Alternative accommodations
 
 Participants are welcome to look for alternative accommodation nearby, at their
 own cost. Please note that if you do so, **you will need a car**, as there are
