@@ -44,9 +44,9 @@ stop away from the University of Calgary station.
 **Barrier Lake Station is a field station, not a hotel.**
 Barrier Lake is mostly dormitories, with some duplex housing as well.
 
-Each dormitory (up to 16 people) has a shared washroom.
-Each bedroom in the dormitories has one bunk bed.
-We hope the beautiful scenery makes up for this!
+**Each dormitory (up to 16 people) has a single shared washroom with only one
+shower.** Each bedroom in the dormitories has one bunk bed. We hope the
+beautiful scenery makes up for this!
 
 {{< image src="/mountains.jpeg" alt="View of the mountains from Barrier Lake Field Station" position="center" style="width: 50%" >}}
 
