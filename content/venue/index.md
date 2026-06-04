@@ -24,19 +24,21 @@ schedules and how to buy tickets. A Calgary Transit ticket is $4 CAD.
 
 # Where to meet at the University of Calgary
 
-The meeting point at UCalgary prior to departure is the entrance of the *Math
-Science Building*. The exact position is indicated on this Google Maps link:
-[https://maps.app.goo.gl/3C61HkJCyLEGo4GCA](https://maps.app.goo.gl/3C61HkJCyLEGo4GCA).
+The meeting point at UCalgary prior to departure to Barrier Lake Station is the
+*lounge* on the 4th floor of the *Math. Sciences Building*; the lounge is room
+**MS 461** and the abreviated name of the building is **MS**. The exact
+position of the entrance of the Math. Sciences Building is indicated on this
+[Google Maps link](https://maps.app.goo.gl/3C61HkJCyLEGo4GCA). Here is a [link
+to the UCalgary interactive campus map and room
+finder](https://www.ucalgary.ca/about-ucalgary/our-campuses/campus-maps-and-room-finder).
 
-Someone will be waiting at this precise door to let you into the building (the
-doors are locked)! If you cannot find us or this location, please contact us on
-the Signal group linked in our email dated May 29th.
+Enter through the door and follow the signs to the meeting point. If you cannot
+find us or this location, please contact us on the Signal group linked in our
+email dated May 29th.
 
-{{< image src="/meeting-point.png" alt="Meeting point" position="center" style="width: 30%" >}}
-
-If you have an early flight, you are welcome to arrive at the Math Building as
-early as 10:00 am Sunday and hang out with us in the math department lounge
-until the bus to Barrier Lake Station arrives.
+If you have an early flight, you are welcome to arrive at the lounge as early
+as 10:00 am Sunday and hang out with us there until the bus to Barrier Lake
+Station arrives.
 
 The bus headed to Barrier Lake Station will leave at **5PM sharp** from the
 meeting point.
