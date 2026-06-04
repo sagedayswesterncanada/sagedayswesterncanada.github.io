@@ -2,14 +2,55 @@
 title: Venue and logistics
 ---
 
+# Getting to the University of Calgary from the Calgary International Airport
+
+We recommend using a taxi or Uber to get to campus from the airport. Out of all
+the taxi companies, *Checker* (yellow cars) will be the cheapest, but Uber will
+still be the cheapest of options. For the destination, **ask or put the Math
+Sciences Building at UCalgary (see next paragraph and screenshot below)**. Your
+driver will then drive you to the exact correct location. This is very
+important as the campus is large.
+
+{{< image src="/uber.png" alt="Uber Instructions" position="center" style="width: 30%" >}}
+
+The ride is about 25 mins in low traffic conditions. The price of the Uber ride
+will be approximately 35 CAD, and the taxi is usually about 20 CAD more
+expensive.
+
+It is also possible to get to campus from the airport with public transit, and
+takes just over an hour if you don't miss your transfer. See the [Calgary
+Transit website](https://www.calgarytransit.com/home.html) for information on
+schedules and how to buy tickets. A Calgary Transit ticket is $4 CAD.
+
+# Where to meet at the University of Calgary
+
+The meeting point at UCalgary prior to departure to Barrier Lake Station is the
+*lounge* on the 4th floor of the *Math. Sciences Building*; the lounge is room
+**MS 461** and the abreviated name of the building is **MS**. The exact
+position of the entrance of the Math. Sciences Building is indicated on this
+[Google Maps link](https://maps.app.goo.gl/3C61HkJCyLEGo4GCA). Here is a [link
+to the UCalgary interactive campus map and room
+finder](https://www.ucalgary.ca/about-ucalgary/our-campuses/campus-maps-and-room-finder).
+
+Enter through the door and follow the signs to the meeting point. If you cannot
+find us or this location, please contact us on the Signal group linked in our
+email dated May 29th.
+
+If you have an early flight, you are welcome to arrive at the lounge as early
+as 10:00 am Sunday and hang out with us there until the bus to Barrier Lake
+Station arrives.
+
+The bus headed to Barrier Lake Station will leave at **5PM sharp** from the
+meeting point.
+
+# About the venue
+
 The workshop will be hosted at [Barrier Lake
 Station](https://research.ucalgary.ca/biogeoscience-institute/facilities/barrier-lake-station),
 Kananaskis, Alberta, Canada. This venue belongs to the University of Calgary
 and provides accommodations, work facilities, and dining.
 
 {{< image src="/dining4.jpg" alt="Photograph of Barrier Lake main lodge" position="center" style="width: 50%" >}}
-
-# About the venue
 
 ## Accessing Barrier Lake Station
 

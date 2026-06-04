@@ -2,6 +2,10 @@
 title: Activities
 ---
 
+# Schedule
+
+[ LINK TO A PDF OR PNG EXPORT OF THE SCHEDULE ]
+
 # Work organization 
 
 A few key points:
@@ -27,65 +31,18 @@ We will have plenary talks from:
 - [Mark Giesbrecht](https://cs.uwaterloo.ca/~mwg/index.shtml) (University of Waterloo)
 - Jenny Lawson (University of Calgary)
 
+Titles and abstracts will be posted on the website soon.
+
 ## Labs and tutorials
 
 We will also have labs and tutorials aimed at beginners, including:
-- What is Free and Open Source Software (FOSS).
-- Installing SageMath.
-- Basics of SageMath.
 - Basics of the terminal.
 - Basics of git and GitHub.
-- Getting your code in Sage.
+- Getting your code into Sage.
 
 If you want a particular topic to be discussed, please ask us in the
 application form.
 
 ## Contributions to Sage
 
-We will strongly encourage (first) contributions to SageMath. Participants can
-come with their own topic, discuss topic ideas with the organizers, or pick one
-in the list below. These subjects are self-contained, achievable during the
-workshop, and suitable for a first contribution to SageMath.
-
-### Polynomials
-
-- Implement multipoint evaluation of classical polynomials and Ore polynomials
-(see *Modern Computer Algebra*, §10.1, for the classical version).\
-    *(Proposed by: Antoine Leudière)*
-
-### Drinfeld modules
-
-- Implement solutions to the *discrete logarithm problem* and the *inversion
-problem* Drinfeld modules; see the original paper by T. Scanlon [*Public key
-cryptosystems based on Drinfeld modules are
-insecure*](https://math.berkeley.edu/~scanlon/papers/dmc7aug00.pdf), or §A.2.1
-of [A. Leudière's thesis](https://theses.fr/2024LORR0109).\
-    *(Proposed by: Antoine Leudière)*
-
-- Implement orders (or *annihilators*) of elements in the module of points of a
-  Drinfeld module over a finite field.\
-    *(Proposed by: Antoine Leudière)*
-
-### Function fields
-
-- Sage's function field machinery has improved significantly in recent years,
-but still has room for improvements to both speed and functionality.\
-*(Proposed by: Vincent Macri)*
-
-### Linear algebra
-
-- Make the variable of the following characteristic polynomial less ambiguous:
-    ```
-    sage: my_matrix = diagonal_matrix([x, x, x])
-    sage: my_matrix.characteristic_polynomial()
-    x^3 - 3*x*x^2 + 3*x^2*x - x^3
-    ```
-    *(Proposed by: Antoine Leudière)*
-
-### Public key cryptography
-
-- Improve SageMath's public key cryptography functionality with demonstrative
-implementations of notable public key exchange, key encapsulation mechanism, public key
-encryption, or digital signature schemes.
-- See [Sage Enhancement Proposal 41218](https://github.com/sagemath/sage/discussions/41218) for more details.\
-*(Proposed by: Vincent Macri)*
+We will strongly encourage (first) contributions to SageMath.
