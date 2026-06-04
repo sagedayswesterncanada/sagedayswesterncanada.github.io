@@ -2,6 +2,15 @@
 title: Activities
 ---
 
+# Schedule
+
+The tentative schedule is as follows:
+
+{{< image src="/schedule.jpg" alt="Tentative schedule" position="center" style="width: 80%" >}}
+
+Here are [a PDF version](/schedule.pdf) and [a list version
+(PDF)](/schedule-list.pdf).
+
 # Work organization 
 
 A few key points:
