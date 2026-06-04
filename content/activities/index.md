@@ -2,10 +2,6 @@
 title: Activities
 ---
 
-# Schedule
-
-[ LINK TO A PDF OR PNG EXPORT OF THE SCHEDULE ]
-
 # Work organization 
 
 A few key points:
