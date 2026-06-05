@@ -61,7 +61,33 @@ algebra software.
 
 ## Jenny Lawson (University of Calgary)
 
-Title and abstract TBA.
+*Why SageMath?*
+
+Every few years, educators are bombarded with marketing that goes something
+like, “Transform teaching and learning in your classroom by using [insert new
+fancy technology here]!” If you’ve been in educational spaces for any length of
+time, you will have seen many such technologies come and go. Unfortunately,
+many of these technologies don’t end up truly transforming the teaching and
+learning that goes on in classrooms. Why is that? Is it because they never had
+the potential? Or is it because their potential was never truly harnessed? A
+technology like SageMath could completely change the way we teach and learn,
+but only if we figure out how to use it the right way. That’s where digital
+pedagogy comes in. Digital pedagogy is the study and practice of using digital
+tools to enhance and transform teaching and learning. In this interactive talk,
+we will explore the potential of SageMath in the classroom from the lens of
+digital pedagogy by starting from the most important question: Why SageMath?
+
+> Jenny Lawson is an interdisciplinary PhD Candidate studying Mathematics &
+> Educational Research at the University of Calgary. She completed her BSc in
+> Mathematical Science with an area of emphasis in computer science at the
+> University of Guelph in 2020, followed by an MSc in Mathematics in 2022 at
+> the University of Calgary (PhD hopefully to come in 2026). Her current
+> research falls anywhere between applied mathematical research with a heavy
+> numerical and computational analysis focus, to qualitative work research on
+> teaching and learning in undergraduate classrooms. She has taught several
+> courses as a sessional instructor at the University of Calgary where she
+> loved using educational technologies to enhance her teaching and has received
+> lots of positive feedback.
 
 # Work organization 
 
