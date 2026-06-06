@@ -38,6 +38,22 @@ In addition, we will showcase the functionality of the packages to serve as an
 illustration of the utility of putting the extra effort into mathematical
 software to make it useful beyond the original narrow application.
 
+> Mark Giesbrecht is a Professor in the David R. Cheriton School of Computer
+> Science at the University of Waterloo, conducting research in symbolic
+> computation and computer algebra, especially as applied to algebra and number
+> theory. He received his MSc in 1988 and his PhD in 1993 in Computer Science
+> from the University of Toronto. After working as a compiler researcher and
+> developer for IBM Canada and holding faculty positions at the University of
+> Manitoba and the University of Western Ontario, Mark joined the University of
+> Waterloo in 2001. He served as Director of Undergraduate Studies and subsequently
+> Director of the School of Computer Science, and was until recently the Dean of the
+> Faculty of Mathematics at the University of Waterloo (yes, UW has a Faculty of
+> Math!). Mark has written well over 80 research articles and supervised some 34
+> graduate students and postdocs. In 2004, Mark received an NSERC Synergy Award
+> for Innovation for his work with Maplesoft, and was named an ACM Distinguished
+> Scientist in 2013 for his contributions to Maple and LinBox, the foremost
+> software package for exact computational linear algebra. 
+
 ## Mark Giesbrecht (University of Waterloo)
 
 
@@ -59,6 +75,20 @@ modular computation, lifting, and certification provide both the foundation for
 improved complexity bounds and the architecture for effective exact linear
 algebra software.
 
+> Nils Bruin is a professor in the Department of Mathematics at Simon Fraser
+> University. His research interests include number theory (especially
+> algorithmic and computational), algebraic & arithmetic geometry and computer
+> algebra, focusing on rational points on varieties, particularly curves and
+> Abelian varieties. Following his MSc in 1995 and his PhD in 1999 in
+> Mathematics from Leiden University in the Netherlands, Nils was an NWO
+> researcher at Utrecht University in hte Netherlands, a postdoc at MSRI (now
+> LSMath) in Berkeley, a PIMS PDF at Simon Fraser University and the University
+> of British Columbia, and a Senior Research Associate with the MAGMA Group at
+> the University of Sydney in Australia. In 2003, he joined the Faculty at
+> Simon Fraser University. Nils has authored and co-authored some 45 research
+> articles and supervised 15 graduate theses. 
+
+
 ## Jenny Lawson (University of Calgary)
 
 *Why SageMath?*
@@ -77,6 +107,17 @@ tools to enhance and transform teaching and learning. In this interactive talk,
 we will explore the potential of SageMath in the classroom from the lens of
 digital pedagogy by starting from the most important question: why SageMath?
 
+> Jenny Lawson is an interdisciplinary PhD Candidate studying Mathematics &
+> Educational Research at the University of Calgary. She completed her BSc in
+> Mathematical Science with an area of emphasis in computer science at the
+> University of Guelph in 2020, followed by an MSc in Mathematics in 2022 at
+> the University of Calgary (PhD hopefully to come in 2026). Her current
+> research falls anywhere between applied mathematical research with a heavy
+> numerical and computational analysis focus, to qualitative work research on
+> teaching and learning in undergraduate classrooms. She has taught several
+> courses as a sessional instructor at the University of Calgary where she
+> loved using educational technologies to enhance her teaching and has received
+> lots of positive feedback.
 
 # Work organization 
 
