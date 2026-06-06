@@ -38,6 +38,19 @@ In addition, we will showcase the functionality of the packages to serve as an
 illustration of the utility of putting the extra effort into mathematical
 software to make it useful beyond the original narrow application.
 
+> Nils Bruin is a professor in the Department of Mathematics at Simon Fraser
+> University. His research interests include number theory (especially
+> algorithmic and computational), algebraic & arithmetic geometry and computer
+> algebra, focusing on rational points on varieties, particularly curves and
+> Abelian varieties. Following his MSc in 1995 and his PhD in 1999 in
+> Mathematics from Leiden University in the Netherlands, Nils was an NWO
+> researcher at Utrecht University in hte Netherlands, a postdoc at MSRI (now
+> LSMath) in Berkeley, a PIMS PDF at Simon Fraser University and the University
+> of British Columbia, and a Senior Research Associate with the MAGMA Group at
+> the University of Sydney in Australia. In 2003, he joined the Faculty at
+> Simon Fraser. Nils has authored and co-authored some 45 research articles and
+> supervised 15 graduate theses. 
+
 ## Mark Giesbrecht (University of Waterloo)
 
 *Sparse Exact Linear Algebra: Theory, Algorithms, and Implementation*
