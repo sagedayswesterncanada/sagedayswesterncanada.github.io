@@ -2,7 +2,7 @@ Sage Days Western Canada 2026: Rocky Mountains. \
 June 7-12 2026. \
 Barrier Lake Station, Kananaskis, Alberta, Canada.
 
-![Barrier Lake](/barrier-lake.jpg)
+![Group photo](/group-photo.jpg)
 
 # Goal of the event
 
