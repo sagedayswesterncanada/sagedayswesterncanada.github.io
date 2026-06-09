@@ -4,7 +4,7 @@ title: Activities
 
 # Schedule
 
-The tentative schedule is as follows:
+**THERE HAS BEEN A SCHEDULE CHANGED! SEE BELOW.**
 
 {{< image src="/schedule.jpg" alt="Tentative schedule" position="center" style="width: 80%" >}}
 
